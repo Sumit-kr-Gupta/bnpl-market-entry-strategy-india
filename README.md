@@ -2,13 +2,6 @@
 
 > Designed an end-to-end GTM strategy for India's ₹8.1B BNPL market using Excel, SQL, Python, and Tableau to evaluate market opportunity, competitive positioning, customer segmentation, unit economics, and phased launch sequencing.
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://python.org)
-[![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)](https://mysql.com)
-[![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)](https://microsoft.com/excel)
-[![Tableau](https://img.shields.io/badge/Tableau-In%20Progress-lightgrey?logo=tableau)](https://tableau.com)
-[![Domain](https://img.shields.io/badge/Domain-Fintech%20%7C%20BNPL-blueviolet)]()
-[![Market](https://img.shields.io/badge/Market-India-orange)]()
-
 ---
 
 ##  Business Problem
