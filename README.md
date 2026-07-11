@@ -43,7 +43,6 @@ Built end-to-end in SQL, Python, and Excel — market sizing, competitive intell
 31. [Screenshots](#31-screenshots)
 32. [How to Run the Project](#32-how-to-run-the-project)
 33. [Conclusion](#33-conclusion)
-34. [Relevant Roles](#34-relevant-roles)
 
 ---
 
@@ -404,15 +403,3 @@ Open `data/GTM_Market_Entry_Strategy.xlsx` in Excel or LibreOffice Calc — all 
 ## 33. Conclusion
 
 This project set out to answer one question — should this company enter the Indian BNPL market — and refused to let a single attractive headline number (an $8.1B, 28%-CAGR TAM) answer it alone. By cross-checking market sizing methods, quantifying competitive concentration instead of asserting it, sequencing launch states on a blended readiness score, and carrying unit economics through to a real discounted cash flow model, the analysis surfaced a more complicated and more useful answer than "yes": a strategically sound but not-yet-fundable opportunity, with a specific, evidence-based path — a segment-first pilot — from Hold to Go. That is the standard the project was built to meet: not a recommendation an executive team would accept uncritically, but one they could stress-test line by line and still trust.
-
-## 34. Relevant Roles
-
-- **Business Analysis:** structured business questions into a defined dataset, built KPI logic in SQL, and translated raw metrics into decision-ready summaries.
-- **Strategy & Operations / Founder's Office:** framed and answered a full market-entry decision — sizing, sequencing, segmentation, and a phased execution plan — the way an early-stage strategy function would.
-- **Consulting:** applied standard strategy frameworks (SWOT, Porter's Five Forces, TAM/SAM/SOM, HHI) rigorously and cross-checked their conclusions against a quantitative financial model rather than presenting frameworks as decoration.
-- **Growth & Corporate Strategy:** built a segment- and geography-sequencing model, and an explicit criteria-based Go/Hold/No-Go decision framework reusable beyond this specific market.
-- **Data Analytics:** delivered the full pipeline — SQL data layer, Python statistical and financial modeling, and an executive Excel workbook — with documented methodology and logged assumptions throughout.
-
----
-
-*Data compiled from public secondary sources (RBI, NPCI/UPI reporting, population estimates, competitor-disclosed figures) and supplemented with clearly labeled analyst assumptions where primary data was unavailable. See each notebook's Assumption Register and [`docs/Technical_Documentation.md`](docs/Technical_Documentation.md) for full sourcing detail.*
