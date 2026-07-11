@@ -403,3 +403,6 @@ Open `data/GTM_Market_Entry_Strategy.xlsx` in Excel or LibreOffice Calc — all 
 ## 33. Conclusion
 
 This project set out to answer one question — should this company enter the Indian BNPL market — and refused to let a single attractive headline number (an $8.1B, 28%-CAGR TAM) answer it alone. By cross-checking market sizing methods, quantifying competitive concentration instead of asserting it, sequencing launch states on a blended readiness score, and carrying unit economics through to a real discounted cash flow model, the analysis surfaced a more complicated and more useful answer than "yes": a strategically sound but not-yet-fundable opportunity, with a specific, evidence-based path — a segment-first pilot — from Hold to Go. That is the standard the project was built to meet: not a recommendation an executive team would accept uncritically, but one they could stress-test line by line and still trust.
+
+---
+*Author: Sumit Kumar Gupta*
